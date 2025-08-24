@@ -7,10 +7,12 @@
     "--ordinaryapp": "-1"
   },
   "run": {
+    "--v8version": "8.3.25",
     "--command": "ЗапуститьОбновлениеИнформационнойБазы;ЗавершитьРаботуСистемы;",
     "--execute": ""
   },
   "vanessa": {
+    "--v8version": "8.3.25",
     "--vanessasettings": "./tools/VAParams.json",
     "--pathvanessa": "C:/tools/vanessa-automation-single.epf"
   }
