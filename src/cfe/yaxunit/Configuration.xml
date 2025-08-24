@@ -182,6 +182,7 @@
 			<CommonModule>ОМ_ПервыйТест</CommonModule>
 			<CommonModule>ОМ_API_ОписанияТоваров</CommonModule>
 			<CommonModule>Док_РасходТовара</CommonModule>
+			<CommonModule>Док_ПриходТовара</CommonModule>
 			<DataProcessor>ЮТHTTPServiceRequest</DataProcessor>
 			<DataProcessor>ЮТHTTPСервисЗапрос</DataProcessor>
 			<DataProcessor>ЮТRecordSet</DataProcessor>
