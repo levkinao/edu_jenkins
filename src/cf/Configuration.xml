@@ -512,6 +512,7 @@
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>Партнеры</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
