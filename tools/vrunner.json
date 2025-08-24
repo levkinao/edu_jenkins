@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/vanessa-opensource/vanessa-runner/refs/heads/develop/vanessa-runner-schema.json",
   "default": {
     "--workspace": ".",
+    "--v8version": "8.3.25",
     "--additional": "/DisplayAllFunctions /Lru  /iTaxi /debug -http -attach /debuggerURL http://localhost:1550",
-    "--ordinaryapp": "-1",
-    "--v8version": "8.3.25.1501"
+    "--ordinaryapp": "-1"
   },
   "run": {
     "--command": "ЗапуститьОбновлениеИнформационнойБазы;ЗавершитьРаботуСистемы;",
