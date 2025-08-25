@@ -185,8 +185,10 @@
 			<CommonModule>ЮТЧитательСлужебныйВызовСервера</CommonModule>
 			<CommonModule>ОМ_ПервыйТест</CommonModule>
 			<CommonModule>ОМ_API_ОписанияТоваров</CommonModule>
-			<CommonModule>РН_ТоварныеЗапасы</CommonModule>
+			<CommonModule>Док_РасходТовара</CommonModule>
 			<CommonModule>РН_Взаиморасчеты</CommonModule>
+			<CommonModule>Док_ПриходТовара</CommonModule>
+			<CommonModule>РН_ТоварныеЗапасы</CommonModule>
 			<DataProcessor>ЮТHTTPServiceRequest</DataProcessor>
 			<DataProcessor>ЮТHTTPСервисЗапрос</DataProcessor>
 			<DataProcessor>ЮТRecordSet</DataProcessor>
